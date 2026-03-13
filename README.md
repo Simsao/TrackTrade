@@ -1,0 +1,2 @@
+# TrackTrade
+Journal de Trading
